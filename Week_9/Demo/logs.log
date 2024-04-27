@@ -3879,3 +3879,5 @@ _catboost.CatBoostError: C:/Go_Agent/pipelines/BuildMaster/catboost.git/catboost
 2024-04-27 15:19:10,230:INFO:Preloading libraries
 2024-04-27 15:19:10,230:INFO:Set up data.
 2024-04-27 15:19:10,235:INFO:Set up index.
+2024-04-27 15:44:23,391:INFO:Initializing load_model()
+2024-04-27 15:44:23,413:INFO:load_model(model_name=happiness_pipeline, platform=None, authentication=None, verbose=True)
