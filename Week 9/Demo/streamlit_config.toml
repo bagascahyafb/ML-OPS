@@ -1,0 +1,7 @@
+# Set the port number for the Streamlit app
+[server]
+port = 8501
+
+# Set the maximum memory usage for the Streamlit app
+[server.memory]
+memory_limit = 4GB
