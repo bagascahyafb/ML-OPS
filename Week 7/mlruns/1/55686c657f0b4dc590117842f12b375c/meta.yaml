@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/1/55686c657f0b4dc590117842f12b375c/artifacts
+end_time: 1713093250559
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 55686c657f0b4dc590117842f12b375c
+run_name: amusing-pig-620
+run_uuid: 55686c657f0b4dc590117842f12b375c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713093235108
+status: 3
+tags: []
+user_id: BAGAS

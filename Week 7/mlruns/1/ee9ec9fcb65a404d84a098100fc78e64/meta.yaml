@@ -1,0 +1,16 @@
+artifact_uri: ./mlruns/1/ee9ec9fcb65a404d84a098100fc78e64/artifacts
+deleted_time: 1713091591345
+end_time: 1713090997712
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+run_id: ee9ec9fcb65a404d84a098100fc78e64
+run_name: hilarious-fish-234
+run_uuid: ee9ec9fcb65a404d84a098100fc78e64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713090997098
+status: 4
+tags: []
+user_id: BAGAS

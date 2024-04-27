@@ -1,0 +1,16 @@
+artifact_uri: ./mlruns/1/48da46a666734d02b8c7e82ed0c11fac/artifacts
+deleted_time: 1713092945912
+end_time: 1713092699232
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+run_id: 48da46a666734d02b8c7e82ed0c11fac
+run_name: fun-pug-877
+run_uuid: 48da46a666734d02b8c7e82ed0c11fac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713092698138
+status: 4
+tags: []
+user_id: BAGAS

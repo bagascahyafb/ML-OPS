@@ -1,0 +1,16 @@
+artifact_uri: ./mlruns/1/e4c2d321556945bea5a26a0f9893d844/artifacts
+deleted_time: 1713092339488
+end_time: 1713092044980
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+run_id: e4c2d321556945bea5a26a0f9893d844
+run_name: luxuriant-newt-456
+run_uuid: e4c2d321556945bea5a26a0f9893d844
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713092026104
+status: 4
+tags: []
+user_id: BAGAS

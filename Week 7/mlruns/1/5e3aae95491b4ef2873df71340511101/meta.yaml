@@ -1,0 +1,16 @@
+artifact_uri: ./mlruns/1/5e3aae95491b4ef2873df71340511101/artifacts
+deleted_time: 1713091712070
+end_time: 1713091576173
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+run_id: 5e3aae95491b4ef2873df71340511101
+run_name: serious-shrew-831
+run_uuid: 5e3aae95491b4ef2873df71340511101
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713091568963
+status: 3
+tags: []
+user_id: BAGAS

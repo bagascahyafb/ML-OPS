@@ -1,0 +1,16 @@
+artifact_uri: ./mlruns/1/4cd48d90d0df439a9542d09d5d9c90bd/artifacts
+deleted_time: 1713093283937
+end_time: 1713092919870
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+run_id: 4cd48d90d0df439a9542d09d5d9c90bd
+run_name: luminous-cow-226
+run_uuid: 4cd48d90d0df439a9542d09d5d9c90bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713092917518
+status: 3
+tags: []
+user_id: BAGAS

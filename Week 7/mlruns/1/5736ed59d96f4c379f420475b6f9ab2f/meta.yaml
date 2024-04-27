@@ -1,0 +1,16 @@
+artifact_uri: ./mlruns/1/5736ed59d96f4c379f420475b6f9ab2f/artifacts
+deleted_time: 1713093283937
+end_time: 1713092775596
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+run_id: 5736ed59d96f4c379f420475b6f9ab2f
+run_name: silent-yak-11
+run_uuid: 5736ed59d96f4c379f420475b6f9ab2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713092773125
+status: 3
+tags: []
+user_id: BAGAS

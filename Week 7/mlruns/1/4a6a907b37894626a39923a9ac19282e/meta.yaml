@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/1/4a6a907b37894626a39923a9ac19282e/artifacts
+end_time: 1713092441438
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4a6a907b37894626a39923a9ac19282e
+run_name: able-seal-183
+run_uuid: 4a6a907b37894626a39923a9ac19282e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713092431356
+status: 3
+tags: []
+user_id: BAGAS

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Kuliah/Semester%204/ML-OPS/Week%205/mlruns/0/23a259c1fc0c4c2d972f798167766ac4/artifacts
+end_time: 1712851642352
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 23a259c1fc0c4c2d972f798167766ac4
+run_name: enthused-panda-914
+run_uuid: 23a259c1fc0c4c2d972f798167766ac4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712851630127
+status: 3
+tags: []
+user_id: BAGAS

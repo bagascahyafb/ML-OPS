@@ -1,0 +1,16 @@
+artifact_uri: ./mlruns/1/6100c79bb8ef480fb8a97378d41f96a1/artifacts
+deleted_time: 1713091712072
+end_time: 1713091702861
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+run_id: 6100c79bb8ef480fb8a97378d41f96a1
+run_name: vaunted-bug-155
+run_uuid: 6100c79bb8ef480fb8a97378d41f96a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713091692716
+status: 3
+tags: []
+user_id: BAGAS

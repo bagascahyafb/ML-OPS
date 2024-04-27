@@ -1,0 +1,16 @@
+artifact_uri: ./mlruns/1/b234539236384f1186d3127bb37e7a27/artifacts
+deleted_time: 1713091591345
+end_time: 1713091403975
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+run_id: b234539236384f1186d3127bb37e7a27
+run_name: bold-snipe-747
+run_uuid: b234539236384f1186d3127bb37e7a27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713091403619
+status: 4
+tags: []
+user_id: BAGAS

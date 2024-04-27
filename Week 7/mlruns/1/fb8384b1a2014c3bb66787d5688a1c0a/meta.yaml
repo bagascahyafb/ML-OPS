@@ -1,0 +1,16 @@
+artifact_uri: ./mlruns/1/fb8384b1a2014c3bb66787d5688a1c0a/artifacts
+deleted_time: 1713092945912
+end_time: 1713092736993
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+run_id: fb8384b1a2014c3bb66787d5688a1c0a
+run_name: gregarious-ox-702
+run_uuid: fb8384b1a2014c3bb66787d5688a1c0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713092736014
+status: 4
+tags: []
+user_id: BAGAS

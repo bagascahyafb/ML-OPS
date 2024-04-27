@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Kuliah/Semester%204/ML-OPS/Week%205/mlruns/0/c9d0df02e864417eaebeeb190d39a2d2/artifacts
+end_time: 1712851645651
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c9d0df02e864417eaebeeb190d39a2d2
+run_name: orderly-colt-135
+run_uuid: c9d0df02e864417eaebeeb190d39a2d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712851642437
+status: 3
+tags: []
+user_id: BAGAS

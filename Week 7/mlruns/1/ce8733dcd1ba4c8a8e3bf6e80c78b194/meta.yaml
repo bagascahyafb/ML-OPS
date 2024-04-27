@@ -1,0 +1,16 @@
+artifact_uri: ./mlruns/1/ce8733dcd1ba4c8a8e3bf6e80c78b194/artifacts
+deleted_time: 1713091591330
+end_time: 1713091544522
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+run_id: ce8733dcd1ba4c8a8e3bf6e80c78b194
+run_name: stylish-cow-819
+run_uuid: ce8733dcd1ba4c8a8e3bf6e80c78b194
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713091542320
+status: 4
+tags: []
+user_id: BAGAS

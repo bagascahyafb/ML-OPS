@@ -1,0 +1,16 @@
+artifact_uri: ./mlruns/1/6d95ec3178d64c56af5b6cb03df3c6ff/artifacts
+deleted_time: 1713091591345
+end_time: 1712905284984
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+run_id: 6d95ec3178d64c56af5b6cb03df3c6ff
+run_name: invincible-bee-977
+run_uuid: 6d95ec3178d64c56af5b6cb03df3c6ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712904954143
+status: 4
+tags: []
+user_id: BAGAS

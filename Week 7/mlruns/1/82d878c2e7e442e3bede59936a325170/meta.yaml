@@ -1,0 +1,16 @@
+artifact_uri: ./mlruns/1/82d878c2e7e442e3bede59936a325170/artifacts
+deleted_time: 1713091591345
+end_time: 1713091405861
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+run_id: 82d878c2e7e442e3bede59936a325170
+run_name: spiffy-pug-675
+run_uuid: 82d878c2e7e442e3bede59936a325170
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713091405781
+status: 4
+tags: []
+user_id: BAGAS

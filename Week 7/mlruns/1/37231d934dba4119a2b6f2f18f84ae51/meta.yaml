@@ -1,0 +1,16 @@
+artifact_uri: ./mlruns/1/37231d934dba4119a2b6f2f18f84ae51/artifacts
+deleted_time: 1713091591330
+end_time: 1713091506962
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+run_id: 37231d934dba4119a2b6f2f18f84ae51
+run_name: youthful-doe-273
+run_uuid: 37231d934dba4119a2b6f2f18f84ae51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713091489289
+status: 4
+tags: []
+user_id: BAGAS

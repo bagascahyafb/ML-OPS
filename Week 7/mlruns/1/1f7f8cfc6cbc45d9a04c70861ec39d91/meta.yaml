@@ -1,0 +1,16 @@
+artifact_uri: ./mlruns/1/1f7f8cfc6cbc45d9a04c70861ec39d91/artifacts
+deleted_time: 1713093283948
+end_time: 1713092771786
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+run_id: 1f7f8cfc6cbc45d9a04c70861ec39d91
+run_name: handsome-skunk-161
+run_uuid: 1f7f8cfc6cbc45d9a04c70861ec39d91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713092765668
+status: 3
+tags: []
+user_id: BAGAS

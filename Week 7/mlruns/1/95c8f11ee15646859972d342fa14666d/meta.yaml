@@ -1,0 +1,16 @@
+artifact_uri: ./mlruns/1/95c8f11ee15646859972d342fa14666d/artifacts
+deleted_time: 1713091591345
+end_time: 1713091399919
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+run_id: 95c8f11ee15646859972d342fa14666d
+run_name: monumental-chimp-202
+run_uuid: 95c8f11ee15646859972d342fa14666d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713091399648
+status: 4
+tags: []
+user_id: BAGAS

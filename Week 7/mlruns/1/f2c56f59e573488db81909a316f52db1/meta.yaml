@@ -1,0 +1,16 @@
+artifact_uri: ./mlruns/1/f2c56f59e573488db81909a316f52db1/artifacts
+deleted_time: 1713093283936
+end_time: 1713092913941
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+run_id: f2c56f59e573488db81909a316f52db1
+run_name: lyrical-lamb-326
+run_uuid: f2c56f59e573488db81909a316f52db1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713092905543
+status: 3
+tags: []
+user_id: BAGAS

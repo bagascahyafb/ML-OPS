@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/1/d7dbf3bbfa3a4652b1730a841f7a6446/artifacts
+end_time: 1713092129063
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d7dbf3bbfa3a4652b1730a841f7a6446
+run_name: upset-slug-366
+run_uuid: d7dbf3bbfa3a4652b1730a841f7a6446
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713092114699
+status: 3
+tags: []
+user_id: BAGAS

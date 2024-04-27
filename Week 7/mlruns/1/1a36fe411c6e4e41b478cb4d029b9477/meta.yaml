@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/1/1a36fe411c6e4e41b478cb4d029b9477/artifacts
+end_time: 1713092697555
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1a36fe411c6e4e41b478cb4d029b9477
+run_name: victorious-ape-588
+run_uuid: 1a36fe411c6e4e41b478cb4d029b9477
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713092679864
+status: 3
+tags: []
+user_id: BAGAS

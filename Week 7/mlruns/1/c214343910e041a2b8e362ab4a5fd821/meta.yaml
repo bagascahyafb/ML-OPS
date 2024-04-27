@@ -1,0 +1,16 @@
+artifact_uri: ./mlruns/1/c214343910e041a2b8e362ab4a5fd821/artifacts
+deleted_time: 1713091791175
+end_time: 1713091785691
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+run_id: c214343910e041a2b8e362ab4a5fd821
+run_name: redolent-croc-289
+run_uuid: c214343910e041a2b8e362ab4a5fd821
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713091776946
+status: 3
+tags: []
+user_id: BAGAS

@@ -1,0 +1,16 @@
+artifact_uri: ./mlruns/1/0b47767fa6d7456c918e9aa758433dd6/artifacts
+deleted_time: 1713093283935
+end_time: 1713092917318
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+run_id: 0b47767fa6d7456c918e9aa758433dd6
+run_name: merciful-smelt-679
+run_uuid: 0b47767fa6d7456c918e9aa758433dd6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713092914317
+status: 3
+tags: []
+user_id: BAGAS

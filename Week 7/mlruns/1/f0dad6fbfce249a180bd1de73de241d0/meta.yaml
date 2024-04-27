@@ -1,0 +1,16 @@
+artifact_uri: ./mlruns/1/f0dad6fbfce249a180bd1de73de241d0/artifacts
+deleted_time: 1713091591361
+end_time: 1712904844930
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+run_id: f0dad6fbfce249a180bd1de73de241d0
+run_name: abundant-bug-0
+run_uuid: f0dad6fbfce249a180bd1de73de241d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712904818149
+status: 4
+tags: []
+user_id: BAGAS

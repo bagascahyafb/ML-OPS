@@ -1,0 +1,16 @@
+artifact_uri: ./mlruns/1/d9d5d08fdefa40cd8e02e54ba3f55fef/artifacts
+deleted_time: 1713091591345
+end_time: 1712904904043
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+run_id: d9d5d08fdefa40cd8e02e54ba3f55fef
+run_name: lyrical-whale-742
+run_uuid: d9d5d08fdefa40cd8e02e54ba3f55fef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712904902304
+status: 4
+tags: []
+user_id: BAGAS
